@@ -1,0 +1,21 @@
+. Pointers
+DBG: in "read" read line:
+    1 : apple is Malus
+DBG: in "read" - 'clean' value is 'apple is Malus'
+DBG: in "read" - key/value are '1/apple is Malus'
+DBG: in "load" have content '1/rsm�'
+DBG: in "read" read line:
+    2 : banana is Musa
+DBG: in "read" - 'clean' value is 'banana is Musa'
+DBG: in "read" - key/value are '2/banana is Musa'
+DBG: in "load" have content '2/rsm�'
+DBG: in "read" read line:
+    3 : cherry is Prunus avium
+DBG: in "read" - 'clean' value is 'cherry is Prunus avium'
+DBG: in "read" - key/value are '3/cherry is Prunus avium'
+DBG: in "load" have content '3/rsm�'
+Table of 3 entries
+     1 -> 'rsm�'
+     2 -> 'rsm�'
+     3 -> 'rsm�'
+<<<<

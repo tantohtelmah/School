@@ -1,0 +1,12 @@
+This Folder is for Object oriented Programming for the course CIS2430, learning with Java.
+
+13/09/2024 - Lab
+Notes
+. Pacakages are used to keep similar classes Java
+. example of defining the pacakage "helloworld"
+. packages can contain other Pacakages
+. we cant use "./" to run the code 
+. "javac" - compilataion
+. "java" - running
+. help - help@socs.uoguelph.ca
+. commenting in java /*...*/
